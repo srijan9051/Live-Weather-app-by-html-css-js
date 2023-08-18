@@ -1,0 +1,7 @@
+Netlify Hosting:
+
+https://weatherappbysrijan.netlify.app/
+
+Git-Hub hosting:
+
+https://github.com/srijan9051/Live-Weather-app-by-html-css-js.git

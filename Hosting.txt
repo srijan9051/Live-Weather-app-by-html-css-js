@@ -5,3 +5,6 @@ https://weatherappbysrijan.netlify.app/
 Git-Hub hosting:
 
 https://github.com/srijan9051/Live-Weather-app-by-html-css-js.git
+
+
+**N.B: dUE TO SECURITY REASON I HAVE REMOVED MY SECURITY KEY FROM MY JAVA SCRIPT , YOU PLEASE BUY AN API AND ADD THE KEY IN YOUR JS CODE AND REMAINING WILL BE AS IT IS.
